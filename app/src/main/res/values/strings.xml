@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">BookShelves</string>
+    <string name="no_books_message">No Books are available right now. Please come again after some time.</string>
+</resources>
