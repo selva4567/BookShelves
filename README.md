@@ -6,4 +6,4 @@ Import Bookshelves project into Android studio. Version 3.0.1 is preferable.
 Run the app module from the studio toolbar.
 
 # Generated APK
-Download the Bookshelves.apk from https://github.com/selva4567/AndroidAPKs/blob/master/Bookshelves.apk  to directly install and test the application.
+Download the Bookshelves.apk from https://github.com/selva4567/AndroidAPks/blob/master/BookShelves.apk to directly install and test the application.
